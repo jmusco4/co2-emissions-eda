@@ -1,4 +1,4 @@
 # CO2 Emissions EDA
-Exploratory Data Analysis of Historical and Future CO2 Emissions in Earth's Atmosphere
+Exploratory Data Analysis of Historical and Future CO2 Emissions in Earth's Atmosphere. (Work in Progress)
 
 Project Date: 11/20/2021
